@@ -1,0 +1,115 @@
+{"level":"info","message":"Routing to /fast with payloadsize 2  and api type REST"}
+{"level":"info","message":"Request proceed inNaNms"}
+{"level":"info","message":"Routing to /fast with payloadsize 2  and api type REST"}
+{"level":"info","message":"Request proceed inNaNms"}
+{"level":"info","message":"Routing to /fast with payloadsize 2  and api type REST"}
+{"level":"info","message":"Request proceed inNaNms"}
+{"level":"info","message":"Routing to /fast with payloadsize 2  and api type REST"}
+{"level":"info","message":"Request proceed inNaNms"}
+{"level":"info","message":"Routing to /fast with payloadsize 2  and api type REST"}
+{"level":"info","message":"Request proceed inNaNms"}
+{"level":"info","message":"Routing to /fast with payloadsize 2  and api type REST"}
+{"level":"info","message":"Request proceed inNaNms"}
+{"level":"info","message":"Routing to /fast with payloadsize 2  and api type REST"}
+{"level":"info","message":"Request proceed inNaNms"}
+{"level":"info","message":"Routing to /fast with payloadsize 2  and api type REST"}
+{"level":"info","message":"Request proceed inNaNms"}
+{"level":"info","message":"Routing to /fast with payloadsize 2  and api type REST"}
+{"level":"info","message":"Request proceed inNaNms"}
+{"level":"info","message":"Routing to /fast with payloadsize 2  and api type REST"}
+{"level":"info","message":"Request proceed inNaNms"}
+{"level":"info","message":"Routing to /fast with payloadsize 2  and api type REST"}
+{"level":"info","message":"Request proceed inNaNms"}
+{"level":"info","message":"Routing to /fast with payloadsize 2  and api type REST"}
+{"level":"info","message":"Request proceed inNaNms"}
+{"level":"info","message":"Routing to /fast with payloadsize 2  and api type REST"}
+{"level":"info","message":"Request proceed inNaNms"}
+{"level":"info","message":"Routing to /fast with payloadsize 2  and api type REST"}
+{"level":"info","message":"Request proceed inNaNms"}
+{"level":"info","message":"Routing to /fast with payloadsize 2  and api type REST"}
+{"level":"info","message":"Request proceed inNaNms"}
+{"level":"info","message":"Routing to /fast with payloadsize 2  and api type REST"}
+{"level":"info","message":"Request proceed inNaNms"}
+{"level":"info","message":"Routing to /fast with payloadsize 2  and api type REST"}
+{"level":"info","message":"Request proceed inNaNms"}
+{"level":"info","message":"Routing to /fast with payloadsize 2  and api type REST"}
+{"level":"info","message":"Request proceed inNaNms"}
+{"level":"info","message":"Routing to /fast with payloadsize 2  and api type REST"}
+{"level":"info","message":"Request proceed inNaNms"}
+{"level":"info","message":"Routing to /slow with payloadsize 477  and api type REST"}
+{"level":"info","message":"Request proceed inNaNms"}
+{"level":"info","message":"Routing to /slow with payloadsize 477  and api type REST"}
+{"level":"info","message":"Request proceed inNaNms"}
+{"level":"info","message":"Routing to /fast with payloadsize 477  and api type REST"}
+{"level":"info","message":"Request proceed in7ms"}
+{"level":"info","message":"Routing to /fast with payloadsize 2  and api type REST"}
+{"level":"info","message":"Request proceed in4ms"}
+{"level":"info","message":"Routing to /fast with payloadsize 2  and api type REST"}
+{"level":"info","message":"Request proceed in1ms"}
+{"level":"info","message":"Routing to /fast with payloadsize 2  and api type undefined"}
+{"level":"info","message":"Request proceed in30ms"}
+{"level":"info","message":"Routing to /graphql-endpoint with payloadsize 2  and api type GraphQL"}
+{"level":"info","message":"Request proceed in1ms"}
+{"level":"info","message":"Routing to /graphql-endpoint with payloadsize 2  and api type GraphQL"}
+{"level":"info","message":"Request proceed in10ms"}
+{"level":"info","message":"Routing to http://localhost:8083 with payloadsize 2  and api type GraphQL"}
+{"level":"info","message":"Request proceed in8ms"}
+{"level":"info","message":"Routing to http://localhost:8084 with payloadsize 2  and api type gRPC"}
+{"level":"info","message":"Request proceed in2ms"}
+{"level":"info","message":"Routing to http://localhost:8084 with payloadsize 2  and api type gRPC"}
+{"level":"info","message":"Request proceed in9ms"}
+{"level":"info","message":"Routing to /grpc-endpont with payloadsize 2  and api type gRPC"}
+{"level":"info","message":"Request proceed in4ms"}
+{"level":"info","message":"Routing to /fast with payloadsize 2  and api type REST"}
+{"level":"info","message":"Request proceed in0ms"}
+{"level":"info","message":"Routing to /fast with payloadsize 2  and api type REST"}
+{"level":"info","message":"Request proceed in1ms"}
+{"level":"info","message":"Routing to /grpc-endpont with payloadsize 2  and api type gRPC"}
+{"level":"info","message":"Request proceed in1ms"}
+{"level":"info","message":"Routing to http://localhost:8084 with payloadsize 2  and api type gRPC"}
+{"level":"info","message":"Request proceed in3ms"}
+{"level":"info","message":"Routing to http://localhost:8084 with payloadsize 2  and api type gRPC"}
+{"level":"info","message":"Request proceed in3ms"}
+{"level":"info","message":"Routing to http://localhost:8084 with payloadsize 2  and api type gRPC"}
+{"level":"info","message":"Request proceed in4ms"}
+{"level":"info","message":"Routing to /fast with payloadsize 2  and api type REST"}
+{"level":"info","message":"Request proceed in1ms"}
+{"level":"info","message":"Routing to /fast with payloadsize 2  and api type REST"}
+{"level":"info","message":"Request proceed in0ms"}
+{"level":"info","message":"Routing to /fast with payloadsize 2  and api type REST"}
+{"level":"info","message":"Request proceed in4ms"}
+{"level":"info","message":"Routing to /fast with payloadsize 2  and api type REST"}
+{"level":"info","message":"Request proceed in3ms"}
+{"level":"info","message":"Routing to http://localhost:8083 with payloadsize 2  and api type GraphQL"}
+{"level":"info","message":"Request proceed in3ms"}
+{"level":"info","message":"Routing to http://localhost:8083 with payloadsize 2  and api type GraphQL"}
+{"level":"info","message":"Request proceed in0ms"}
+{"level":"info","message":"Routing to http://localhost:8083 with payloadsize 2  and api type GraphQL"}
+{"level":"info","message":"Request proceed in1ms"}
+{"level":"info","message":"Routing to http://localhost:8083 with payloadsize 2  and api type GraphQL"}
+{"level":"info","message":"Request proceed in1ms"}
+{"level":"info","message":"Routing to http://localhost:8083 with payloadsize 2  and api type GraphQL"}
+{"level":"info","message":"Request proceed in1ms"}
+{"level":"info","message":"Routing to http://localhost:8083 with payloadsize 2  and api type GraphQL"}
+{"level":"info","message":"Request proceed in3ms"}
+{"level":"info","message":"Routing to http://localhost:8083 with payloadsize 2  and api type GraphQL"}
+{"level":"info","message":"Request added to GraphQL queue. Queue size: 1"}
+{"level":"info","message":"Request proceed in5ms"}
+{"level":"info","message":"Routing to http://localhost:8083 with payloadsize 2  and api type GraphQL"}
+{"level":"info","message":"Request added to GraphQL queue. Queue size: 1"}
+{"level":"info","message":"Request proceed in5ms"}
+{"level":"info","message":"Routing to http://localhost:8083 with payloadsize 2  and api type GraphQL"}
+{"level":"info","message":"Request added to GraphQL queue. Queue size: 2"}
+{"level":"info","message":"Request proceed in3ms"}
+{"level":"info","message":"Routing to http://localhost:8083 with payloadsize 2  and api type GraphQL"}
+{"level":"info","message":"Request added to GraphQL queue. Queue size: 3"}
+{"level":"info","message":"Request proceed in1ms"}
+{"level":"info","message":"Routing to /fast with payloadsize 2  and api type REST"}
+{"level":"info","message":"Request added to REST queue. Queue size: 1"}
+{"level":"info","message":"Request proceed in3ms"}
+{"level":"info","message":"Routing to http://localhost:8084 with payloadsize 2  and api type gRPC"}
+{"level":"info","message":"Request added to gRPC queue. Queue size: 1"}
+{"level":"info","message":"Request proceed in9ms"}
+{"level":"info","message":"Routing to http://localhost:8084 with payloadsize 2  and api type gRPC"}
+{"level":"info","message":"Request added to gRPC queue. Queue size: 2"}
+{"level":"info","message":"Request proceed in2ms"}
